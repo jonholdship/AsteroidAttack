@@ -1,0 +1,39 @@
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.exe
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.pdb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.exe
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.pdb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet1.xnb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet10.xnb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet2.xnb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet3.xnb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet4.xnb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet5.xnb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet6.xnb
+c:\users\jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet7.xnb
+C:\Users\Jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.exe.manifest
+C:\Users\Jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.application
+C:\Users\Jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.exe.manifest
+C:\Users\Jon\documents\visual studio 2010\Projects\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.application
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet1.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet10.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet2.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet3.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet4.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet5.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet6.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\planet7.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.exe.manifest
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.application
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.exe
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Asteroidattack.pdb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.csprojResolveAssemblyReference.cache
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.exe.manifest
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.application
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.exe
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\obj\x86\Debug\Asteroidattack.pdb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\asteroid.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\Scorefont.xnb
+C:\Users\Jon\OneDrive\Documents\Codes\Asteroidattack\Asteroidattack\Asteroidattack\bin\x86\Debug\Content\sun.xnb
